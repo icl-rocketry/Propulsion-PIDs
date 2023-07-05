@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T17:31:23.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_4Osi91CIOaZJ9tY9Cdh" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T17:36:59.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RzuVzEKzhtqy-lJ4QSyl" version="21.5.2" type="github">
   <diagram name="Simplified" id="CqWv-y_qysSa1M4fhtOu">
     <mxGraphModel dx="2220" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#282c34" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="74x6JmPRSCwgEubW2NDU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=20;" parent="1" vertex="1">
-          <mxGeometry x="501" y="81" width="80" height="840" as="geometry" />
+          <mxGeometry x="501" width="80" height="921" as="geometry" />
         </mxCell>
         <mxCell id="ajLOecNCnTilgNTq40M5-18" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=#224B33;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11820;points=[[0.5,1,0]];rotation=0;strokeColor=#A3FEB9;strokeWidth=2;fontColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry x="280.05999999999995" y="480" width="39.94" height="60" as="geometry" />
@@ -341,10 +341,10 @@
         <mxCell id="74x6JmPRSCwgEubW2NDU-6" value="Nitrous Ground Tank" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#1C263E;strokeColor=#89AFFE;fontColor=#89AFFE;fontStyle=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="39.43" y="109.41" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="74x6JmPRSCwgEubW2NDU-13" value="Nitrous Ground Tank" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#1C263E;strokeColor=#89AFFE;fontColor=#89AFFE;fontStyle=1;fontSize=22;" parent="1" vertex="1">
+        <mxCell id="74x6JmPRSCwgEubW2NDU-13" value="Nitrous" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#1C263E;strokeColor=#89AFFE;fontColor=#89AFFE;fontStyle=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1001" y="301" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="74x6JmPRSCwgEubW2NDU-14" value="Nitrogen Ground Tank" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fontSize=22;strokeColor=#A3FEB9;fillColor=#224B33;fontColor=#A3FEB9;" parent="1" vertex="1">
+        <mxCell id="74x6JmPRSCwgEubW2NDU-14" value="Nitrogen" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fontSize=22;strokeColor=#A3FEB9;fillColor=#224B33;fontColor=#A3FEB9;" parent="1" vertex="1">
           <mxGeometry x="599.97" y="462.12" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="74x6JmPRSCwgEubW2NDU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#224B33;strokeColor=#A3FEB9;strokeWidth=2;fontColor=#FAFAFA;endArrow=none;endFill=0;exitX=0.975;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ajLOecNCnTilgNTq40M5-377" target="ajLOecNCnTilgNTq40M5-407" edge="1">
@@ -357,7 +357,7 @@
             <mxPoint x="740" y="631" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="74x6JmPRSCwgEubW2NDU-21" value="Methanol Ground Tank" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fontSize=22;strokeColor=#F0BCDA;fillColor=#35222C;fontColor=#F0BCDA;" parent="1" vertex="1">
+        <mxCell id="74x6JmPRSCwgEubW2NDU-21" value="Methanol" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fontSize=22;strokeColor=#F0BCDA;fillColor=#35222C;fontColor=#F0BCDA;" parent="1" vertex="1">
           <mxGeometry x="1001" y="580" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z-_9QAuxkszidowLPo6N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#183926;strokeColor=#A3FEB9;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" target="ajLOecNCnTilgNTq40M5-422">
