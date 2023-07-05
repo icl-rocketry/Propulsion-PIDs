@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T17:18:46.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="p0ja-_oWTeemiiBBJL9U" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T17:23:27.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Fet8JhzGuBxe5cAVGSrw" version="21.5.2" type="github">
   <diagram name="Simplified" id="CqWv-y_qysSa1M4fhtOu">
-    <mxGraphModel dx="1744" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#282c34" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="1494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#282c34" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="74x6JmPRSCwgEubW2NDU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=20;" parent="1" vertex="1">
-          <mxGeometry x="501" y="10" width="80" height="900" as="geometry" />
+          <mxGeometry x="501" y="40" width="80" height="840" as="geometry" />
         </mxCell>
         <mxCell id="ajLOecNCnTilgNTq40M5-18" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=#224B33;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11820;points=[[0.5,1,0]];rotation=0;strokeColor=#A3FEB9;strokeWidth=2;fontColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry x="280.05999999999995" y="439" width="39.94" height="60" as="geometry" />
@@ -85,13 +85,13 @@
         <mxCell id="ajLOecNCnTilgNTq40M5-376" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=#1C263E;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11740;points=[[0.5,0,0],[0.5,1,0]];strokeColor=#89AFFE;rotation=-90;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="530.4300000000001" y="95.17000000000024" width="18.98" height="93.78" as="geometry" />
         </mxCell>
-        <mxCell id="ajLOecNCnTilgNTq40M5-406" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#224B33;strokeColor=#A3FEB9;strokeWidth=2;fontColor=#FAFAFA;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-377" edge="1">
+        <mxCell id="ajLOecNCnTilgNTq40M5-406" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#224B33;strokeColor=#A3FEB9;strokeWidth=2;fontColor=#FAFAFA;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-377" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="861" y="540" />
               <mxPoint x="861" y="460" />
             </Array>
-            <mxPoint x="841" y="460.0000000000001" as="targetPoint" />
+            <mxPoint x="861" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ajLOecNCnTilgNTq40M5-377" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=check;rotation=0;fillColor=#224B33;strokeColor=#A3FEB9;strokeWidth=2;fontColor=#FAFAFA;" parent="1" vertex="1">
@@ -164,37 +164,36 @@
             <mxPoint x="1161.0900000000001" y="300.02116642898534" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajLOecNCnTilgNTq40M5-443" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.975;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FAFAFA;strokeWidth=2;fillColor=#183926;strokeColor=#A3FEB9;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-417" target="ajLOecNCnTilgNTq40M5-421" edge="1">
+        <mxCell id="ajLOecNCnTilgNTq40M5-443" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.975;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FAFAFA;strokeWidth=2;fillColor=#183926;strokeColor=#A3FEB9;endArrow=none;endFill=0;" parent="1" target="ajLOecNCnTilgNTq40M5-421" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="660" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="940" y="660" />
               <mxPoint x="1100" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajLOecNCnTilgNTq40M5-447" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.241;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#183926;strokeColor=#A3FEB9;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-417" edge="1">
+        <mxCell id="ajLOecNCnTilgNTq40M5-447" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#183926;strokeColor=#A3FEB9;strokeWidth=2;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="941" y="660" />
-              <mxPoint x="1181" y="660" />
-              <mxPoint x="1181" y="600" />
-              <mxPoint x="1163" y="600" />
+              <mxPoint x="1180" y="660" />
             </Array>
-            <mxPoint x="1163.6499999999996" y="599.72" as="targetPoint" />
+            <mxPoint x="1180" y="660" as="targetPoint" />
+            <mxPoint x="940" y="660" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ajLOecNCnTilgNTq40M5-417" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=check;rotation=90;fontColor=#FAFAFA;strokeWidth=2;fillColor=#183926;strokeColor=#A3FEB9;" parent="1" vertex="1">
           <mxGeometry x="921.04" y="524.96" width="40.09" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ajLOecNCnTilgNTq40M5-428" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#183926;strokeColor=#A3FEB9;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-419" edge="1">
+        <mxCell id="ajLOecNCnTilgNTq40M5-428" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#183926;strokeColor=#A3FEB9;strokeWidth=2;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="941" y="300" />
             </Array>
             <mxPoint x="1001.0900000000001" y="300.0000000000001" as="targetPoint" />
+            <mxPoint x="940" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajLOecNCnTilgNTq40M5-433" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#183926;strokeColor=#A3FEB9;strokeWidth=2;endArrow=none;endFill=0;entryX=-0.025;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ajLOecNCnTilgNTq40M5-419" target="ajLOecNCnTilgNTq40M5-424" edge="1">
+        <mxCell id="ajLOecNCnTilgNTq40M5-433" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#183926;strokeColor=#A3FEB9;strokeWidth=2;endArrow=none;endFill=0;entryX=-0.025;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ajLOecNCnTilgNTq40M5-424" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="741" y="280" as="targetPoint" />
             <Array as="points">
@@ -202,6 +201,7 @@
               <mxPoint x="780" y="300" />
               <mxPoint x="780" y="281" />
             </Array>
+            <mxPoint x="940" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z-_9QAuxkszidowLPo6N-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#A3FEB9;strokeWidth=2;" edge="1" parent="1" source="ajLOecNCnTilgNTq40M5-419">
@@ -241,12 +241,10 @@
         <mxCell id="ajLOecNCnTilgNTq40M5-426" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball;rotation=-90;fillColor=#183926;strokeColor=#A3FEB9;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="839.8400000000001" y="248.01000000000005" width="40.09" height="24.06" as="geometry" />
         </mxCell>
-        <mxCell id="ajLOecNCnTilgNTq40M5-438" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1C263E;strokeColor=#89AFFE;strokeWidth=2;endArrow=none;endFill=0;exitX=1.048;exitY=0.649;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ajLOecNCnTilgNTq40M5-434" edge="1">
+        <mxCell id="ajLOecNCnTilgNTq40M5-438" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1C263E;strokeColor=#89AFFE;strokeWidth=2;endArrow=none;endFill=0;exitX=1.01;exitY=0.444;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ajLOecNCnTilgNTq40M5-434" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="682" y="141" />
-              <mxPoint x="1220" y="141" />
-              <mxPoint x="1220" y="261" />
+              <mxPoint x="1220" y="140" />
             </Array>
             <mxPoint x="1220" y="300" as="targetPoint" />
             <mxPoint x="983.4574505965419" y="141.06000000000012" as="sourcePoint" />
@@ -255,15 +253,13 @@
         <mxCell id="ajLOecNCnTilgNTq40M5-434" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=check;rotation=0;fillColor=#1C263E;strokeColor=#89AFFE;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="640.43" y="127.06" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ajLOecNCnTilgNTq40M5-451" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.044;entryY=0.27;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#35222C;fontColor=#F0BCDA;strokeColor=#F0BCDA;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-449" edge="1" target="ajLOecNCnTilgNTq40M5-460">
+        <mxCell id="ajLOecNCnTilgNTq40M5-451" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#35222C;fontColor=#F0BCDA;strokeColor=#F0BCDA;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-449" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1220" y="816" />
-              <mxPoint x="1220" y="580" />
-              <mxPoint x="1282" y="580" />
-              <mxPoint x="1282" y="584" />
+              <mxPoint x="1220" y="584" />
             </Array>
-            <mxPoint x="1281.5500000000002" y="615.05" as="targetPoint" />
+            <mxPoint x="1220" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ajLOecNCnTilgNTq40M5-449" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=gate;actuator=man;rotation=0;fillColor=#35222C;strokeColor=#F0BCDA;fontColor=#F0BCDA;strokeWidth=2;" parent="1" vertex="1">
@@ -275,7 +271,7 @@
         <mxCell id="ajLOecNCnTilgNTq40M5-453" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#fa6800;strokeWidth=3;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="1480.46" y="421.1199999999999" width="64.82" height="37.88" as="geometry" />
         </mxCell>
-        <mxCell id="ajLOecNCnTilgNTq40M5-465" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#35222C;fontColor=#F0BCDA;strokeColor=#F0BCDA;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-460" edge="1">
+        <mxCell id="ajLOecNCnTilgNTq40M5-465" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#35222C;fontColor=#F0BCDA;strokeColor=#F0BCDA;strokeWidth=2;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1481" y="450" as="targetPoint" />
             <Array as="points">
@@ -283,6 +279,7 @@
               <mxPoint x="1421" y="450" />
               <mxPoint x="1480" y="450" />
             </Array>
+            <mxPoint x="1420" y="580" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ajLOecNCnTilgNTq40M5-470" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#35222C;fontColor=#F0BCDA;strokeColor=#F0BCDA;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-460" target="ajLOecNCnTilgNTq40M5-468" edge="1">
@@ -297,7 +294,7 @@
         <mxCell id="ajLOecNCnTilgNTq40M5-460" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball;rotation=-180;fillColor=#35222C;strokeColor=#F0BCDA;fontColor=#F0BCDA;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1280.98" y="566.97" width="40.09" height="24.06" as="geometry" />
         </mxCell>
-        <mxCell id="ajLOecNCnTilgNTq40M5-466" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#89AFFE;strokeWidth=2;fillColor=#1C263E;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-461" target="ajLOecNCnTilgNTq40M5-453" edge="1">
+        <mxCell id="ajLOecNCnTilgNTq40M5-466" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#89AFFE;strokeWidth=2;fillColor=#1C263E;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-461" target="ajLOecNCnTilgNTq40M5-453" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1421" y="300" />
@@ -366,7 +363,7 @@
               <mxPoint x="860" y="300" />
               <mxPoint x="860" y="279" />
             </Array>
-            <mxPoint x="940" y="360" as="sourcePoint" />
+            <mxPoint x="940" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
