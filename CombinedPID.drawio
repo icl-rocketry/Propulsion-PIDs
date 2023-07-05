@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T17:23:27.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Fet8JhzGuBxe5cAVGSrw" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T17:24:00.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="g2XHtvgx5aTdFRkoNoQ-" version="21.5.2" type="github">
   <diagram name="Simplified" id="CqWv-y_qysSa1M4fhtOu">
-    <mxGraphModel dx="2442" dy="1494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#282c34" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="1245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#282c34" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="74x6JmPRSCwgEubW2NDU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=20;" parent="1" vertex="1">
-          <mxGeometry x="501" y="40" width="80" height="840" as="geometry" />
+          <mxGeometry x="501" y="20" width="80" height="860" as="geometry" />
         </mxCell>
         <mxCell id="ajLOecNCnTilgNTq40M5-18" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=#224B33;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11820;points=[[0.5,1,0]];rotation=0;strokeColor=#A3FEB9;strokeWidth=2;fontColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry x="280.05999999999995" y="439" width="39.94" height="60" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry x="340" y="117.08000000000001" width="83.26" height="49.97" as="geometry" />
         </mxCell>
         <mxCell id="ajLOecNCnTilgNTq40M5-386" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball;rotation=90;fillColor=#1C263E;strokeColor=#89AFFE;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="439.43" y="50.00000000000003" width="40.09" height="24.06" as="geometry" />
+          <mxGeometry x="439.43" y="48.00000000000003" width="40.09" height="24.06" as="geometry" />
         </mxCell>
         <mxCell id="ajLOecNCnTilgNTq40M5-450" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#35222C;fontColor=#F0BCDA;strokeColor=#F0BCDA;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-396" target="ajLOecNCnTilgNTq40M5-449" edge="1">
           <mxGeometry relative="1" as="geometry" />
