@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T21:54:34.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XKEnVSOKLBcxL3BVaqL9" version="21.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-06T21:56:26.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kAEyUHoQkSYkzRtWFHt9" version="21.6.1" type="github" pages="2">
   <diagram name="Simplified" id="CqWv-y_qysSa1M4fhtOu">
     <mxGraphModel dx="2303" dy="3189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#282c34" math="0" shadow="0">
       <root>
@@ -399,7 +399,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HsSIx2BidomNkE-0ggk1" name="Page-2">
-    <mxGraphModel dx="2641" dy="1624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1661" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -609,8 +609,8 @@
         <mxCell id="qU0H1CkPmmHk7e3lrwUf-118" value="1/4&quot; - 1/2&quot; Swagelok Straight Union" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;strokeWidth=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="979.3499999999999" y="505.3" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qU0H1CkPmmHk7e3lrwUf-119" value="1000 psi Pressure Guage" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;strokeWidth=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1020" y="280.37" width="160" height="30" as="geometry" />
+        <mxCell id="qU0H1CkPmmHk7e3lrwUf-119" value="1000 psi Pressure Transducer" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;strokeWidth=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1020" y="280.37" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qU0H1CkPmmHk7e3lrwUf-120" value="1/2&quot; Needle Valve" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;strokeWidth=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1034.35" y="535.3" width="120" height="30" as="geometry" />
