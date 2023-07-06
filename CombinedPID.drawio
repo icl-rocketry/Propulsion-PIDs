@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T22:10:46.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FD1NkNLnqrqkPuIXKLRy" version="21.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-06T10:39:59.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cS7EEP7Heo4ExiGW5uJe" version="21.5.2" type="github" pages="2">
   <diagram name="Simplified" id="CqWv-y_qysSa1M4fhtOu">
-    <mxGraphModel dx="1062" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#282c34" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#282c34" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,10 +93,11 @@
         <mxCell id="ajLOecNCnTilgNTq40M5-406" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#224B33;strokeColor=#A3FEB9;strokeWidth=2;fontColor=#FAFAFA;endArrow=none;endFill=0;" parent="1" source="ajLOecNCnTilgNTq40M5-377" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="861" y="581" />
-              <mxPoint x="861" y="501" />
+              <mxPoint x="780" y="581" />
+              <mxPoint x="780" y="501" />
+              <mxPoint x="780" y="501" />
             </Array>
-            <mxPoint x="861" y="501" as="targetPoint" />
+            <mxPoint x="780" y="502" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ajLOecNCnTilgNTq40M5-377" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=check;rotation=0;fillColor=#224B33;strokeColor=#A3FEB9;strokeWidth=2;fontColor=#FAFAFA;" parent="1" vertex="1">
@@ -351,7 +352,7 @@
           <mxGeometry x="1001" y="301" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="74x6JmPRSCwgEubW2NDU-14" value="Nitrogen" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fontSize=22;strokeColor=#A3FEB9;fillColor=#224B33;fontColor=#A3FEB9;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="599.97" y="462.12" width="160" height="80" as="geometry" />
+          <mxGeometry x="599.97" y="460" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="74x6JmPRSCwgEubW2NDU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#224B33;strokeColor=#A3FEB9;strokeWidth=2;fontColor=#FAFAFA;endArrow=none;endFill=0;exitX=0.975;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ajLOecNCnTilgNTq40M5-377" target="ajLOecNCnTilgNTq40M5-407" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -397,7 +398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HsSIx2BidomNkE-0ggk1" name="Page-2">
-    <mxGraphModel dx="5734" dy="2988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1476" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -554,7 +555,7 @@
           <mxGeometry x="79.47000000000011" y="959.12" width="39.31" height="40.37" as="geometry" />
         </mxCell>
         <mxCell id="qU0H1CkPmmHk7e3lrwUf-94" value="8mm Nylon Hose 5m" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-59.999999999999986" y="210" width="140" height="30" as="geometry" />
+          <mxGeometry x="-60.52999999999999" y="205" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qU0H1CkPmmHk7e3lrwUf-95" value="Tank Built-in Valve" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200.69" y="205" width="120" height="30" as="geometry" />
@@ -628,8 +629,8 @@
         <mxCell id="qU0H1CkPmmHk7e3lrwUf-125" value="1/4&quot; Servo Ball Valve" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="605.59" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qU0H1CkPmmHk7e3lrwUf-126" value="SS-400-3-4" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="801.24" y="725" width="80" height="30" as="geometry" />
+        <mxCell id="qU0H1CkPmmHk7e3lrwUf-126" value="1/4&quot; Swagelok Tee Union" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="721.2399999999998" y="725" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qU0H1CkPmmHk7e3lrwUf-127" value="1/4&quot; BSPP - 1/4&quot; Swagelok" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120.43" y="1004.6700000000002" width="170" height="30" as="geometry" />
@@ -648,6 +649,12 @@
         </mxCell>
         <mxCell id="qU0H1CkPmmHk7e3lrwUf-132" value="1/4&quot;BSPT - 1/4&quot; Swagelok" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="719.59" y="645.98" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1k6YI62rcxiTQ2gYChN-1" value="1/4&quot; Nitrogen Hose" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="199.04000000000002" y="605.5899999999999" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1k6YI62rcxiTQ2gYChN-2" value="3/8&quot; Nitrous Hose" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="759.59" y="799.9999999999999" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
